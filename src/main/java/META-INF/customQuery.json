@@ -123,5 +123,72 @@
     "calcFieldsSecurity": {},
     "errorHandles": {},
     "serviceUrl": "api/cronapi/query/1jy88nt41afza/"
+  },
+  "query333315": {
+    "customId": "query333315",
+    "queryName": "kendo",
+    "sourceType": "blockly",
+    "baseEntity": "app.entity.Cidade",
+    "blockly": {
+      "type": "server",
+      "blocklyMethod": "Executar",
+      "blocklyClass": "blockly.Teste",
+      "blocklyLanguage": "java",
+      "blocklyParams": [],
+      "blocklyJson": {
+        "namespace": "blockly.Teste",
+        "sourcePath": "src/main/java/blockly/Teste.blockly",
+        "language": "java",
+        "class": "blockly.Teste",
+        "methods": [
+          {
+            "name": "Executar",
+            "hasReturn": "true",
+            "params": []
+          }
+        ]
+      },
+      "blocklyGETMethod": "Executar",
+      "blocklyPOSTMethod": "default",
+      "blocklyPUTMethod": "default",
+      "blocklyDELETEMethod": "default",
+      "blocklyFILTERMethod": "default",
+      "blocklyCOUNTMethod": "Executar"
+    },
+    "query": "",
+    "queryParamsValues": [],
+    "verbs": {
+      "GET": true,
+      "POST": true,
+      "PUT": true,
+      "DELETE": true,
+      "FILTER": true,
+      "COUNT": true
+    },
+    "events": {},
+    "defaultValues": {},
+    "defaultValuesProperties": {
+      "estado": {
+        "key": false,
+        "nullable": false,
+        "type": "Estado"
+      },
+      "nome": {
+        "key": false,
+        "nullable": true,
+        "type": "String"
+      },
+      "id": {
+        "key": true,
+        "nullable": false,
+        "type": "String"
+      }
+    },
+    "security": {},
+    "calcFields": {},
+    "calcFieldsSecurity": {},
+    "calcFieldsProperties": {},
+    "errorHandles": {},
+    "serviceUrl": "api/cronapi/query/query333315/"
   }
 }

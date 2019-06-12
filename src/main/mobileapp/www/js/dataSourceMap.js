@@ -7,4 +7,5 @@ window.dataSourceMap["app.roles"] = { customId: "roles", serviceUrl: "api/cronap
 window.dataSourceMap["app.Device"] = { customId: "app.entity.Device", serviceUrl: "api/cronapi/crud/app.entity.Device", serviceUrlODATA: "/api/cronapi/odata/v2/app/Device" };
 window.dataSourceMap["app.teste"] = { customId: "app.entity.teste", serviceUrl: "api/cronapi/crud/app.entity.teste", serviceUrlODATA: "/api/cronapi/odata/v2/app/teste" };
 window.dataSourceMap["app.Role"] = { customId: "app.entity.Role", serviceUrl: "api/cronapi/crud/app.entity.Role", serviceUrlODATA: "/api/cronapi/odata/v2/app/Role" };
+window.dataSourceMap["app.query333315"] = { customId: "query333315", serviceUrl: "api/cronapi/query/query333315/", serviceUrlODATA: "/api/cronapi/odata/v2/app/query333315" };
 window.dataSourceMap["app.Estado"] = { customId: "app.entity.Estado", serviceUrl: "api/cronapi/crud/app.entity.Estado", serviceUrlODATA: "/api/cronapi/odata/v2/app/Estado" };
